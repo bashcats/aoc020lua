@@ -2,7 +2,7 @@
 
 ### progress
 
-26 / 50 parts are now complete. There is a lua file for each part, two per day.
+33 / 50 parts are now complete. There is a lua file for each part, two per day.
 
 #### days
 1.  **
@@ -18,3 +18,7 @@
 11. **
 12. **
 13. **
+14. **
+15. **
+16. *
+17. **
