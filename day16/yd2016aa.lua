@@ -23,8 +23,7 @@ day16.parse = function(rl)
 	while line and line ~= "" do
 		line = rl()
 	end
-	rl()  -- nearby ticket:
-
+	rl()  -- nearby tickets:
 	local tickets = {}
 	local nt = 0
 	line = rl()
@@ -39,7 +38,6 @@ day16.parse = function(rl)
 		tickets[nt] = tic
 		line = rl()
 	end
-
 	return rules, tickets, nt
 end
 
